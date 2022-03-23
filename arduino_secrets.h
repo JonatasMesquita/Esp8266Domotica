@@ -1,3 +1,3 @@
-#define SECRET_SSID "JMD_WIFI"  //Enter WIFI NAME
-#define SECRET_PASS "@jmd1133jj"  //Enter WIFI PASSWORD
-#define SECRET_DEVICE_KEY "MBNDI1P2UU5FIZJRHIOC"  //Enter Secret Key
+#define SECRET_SSID ""  //Enter WIFI NAME
+#define SECRET_PASS ""  //Enter WIFI PASSWORD
+#define SECRET_DEVICE_KEY ""  //Enter Secret Key
